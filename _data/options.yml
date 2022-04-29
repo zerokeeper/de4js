@@ -1,6 +1,6 @@
 - key: lineNumbers
   name: Line numbers
-  checked: false
+  checked: true
 - key: formatCode
   name: Format Code
   checked: true
