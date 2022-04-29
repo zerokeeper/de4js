@@ -12,7 +12,7 @@ $special-disabled-color: #000000;
 {% include highlight-js/styles/hljs-theme.css %}
 {% include highlight-js/styles/hljs-line-numbers.css %}
 .hljs {
-	background: #030303;
+	background: #eaeaea;
 }
 @import "magic-check/sass/magic-check.scss";
 
@@ -28,7 +28,7 @@ code {
 
 .content {
   box-sizing: border-box;
-  background: rgba(0, 0, 0, 0.9);
+  background: #eaeaea;
   color: $base-color;
   display: block;
   width: 100% !important;
