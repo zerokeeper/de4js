@@ -14,7 +14,9 @@ show_downloads: false
 google_analytics: 
 sass:
   style: compressed
-
+webserver_headers:
+  - - Access-Control-Allow-Origin
+    - "*"
 exclude:
   [
     "Gemfile",
